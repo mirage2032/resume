@@ -1,0 +1,192 @@
+{
+    "name": {
+        "first": "Alexandru",
+        "middle": "Ionut",
+        "last": "Popescu",
+    },
+    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQH-toSQgVH4XQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1665430743744?e=1733961600&v=beta&t=aWFIUOGitTcRVnMmCxVQhy8yyDYGBqO3xwlAo3HTIdQ",
+    "description": "Passionate software developer with hands-on experience since the first year of Computer Science studies. Currently in my final year, I excel at finding innovative solutions to complex problems and am eager to embrace new opportunities in the tech industry.",
+    "contact": {
+        "phone": "+40-742-595-723",
+        "email": "pialex2032@gmail.com",
+        "location": {
+            "city": "Pitesti",
+            "country": "Romania"
+        },
+        "website": [
+            {
+                "name": "github",
+                "uri": "https://github.com/mirage2032"
+            },
+            {
+                "name": "fiverr",
+                "uri": "https://fiverr.com/mirage2032"
+            },
+            {
+                "name": "linkedin",
+                "uri": "https://linkedin.com/in/pialex"
+            },
+        ]
+    },
+    "education": [
+        {
+            "name": "Universitatea Politehnica Bucuresti",
+            "location": {
+                "city": "Pitesti",
+                "country": "Romania"
+            },
+            "degree": "Bachelors",
+            "major": "Computer Science",
+            "interval": {
+                "start": "2021-09-30",
+                "end": "2025-07-03"
+            }
+        }
+    ],
+    "work": [
+        {
+            "name": "ASML",
+            "position": "Software Engineer",
+            "interval": {
+                "start": "2022-05-23",
+                "end": null
+            },
+            "lines": [
+                "Backend Python development on Linux RedHat systems",
+                "Collaborating with Product Owners and Architects about the direction and architecture of the product",
+                "Play a role in designing the architecture of new products.",
+                "Build and maintain a CI/CD pipeline for faster and reliable delivery",
+                "Develop Docker containers to improve development efficiency",
+                "Design and develop software based on specifications",
+                "Create, develop and execute unit tests and integration tests",
+                "Write and maintain product documentation"
+            ],
+            "skills": [
+                "Docker",
+                "Python",
+                "Linux (RedHat)",
+                "CI/CD",
+                "AGILE",
+                "Software Architecture",
+                "Jira",
+                "C++",
+                "Shell",
+                "Databases",
+                "Git"
+            ]
+        },
+        {
+            "name": "Fiverr (Freelance)",
+            "position": "Software Developer",
+            "interval": {
+                "start": "2019-04-12",
+                "end": null
+            },
+            "lines": [
+                "Build and maintain web scraping/crawling bots",
+                "Build task automation software based on customer request",
+                "Collaboratee with the customer to meet expectations",
+            ],
+            "skills": [
+                "Python",
+                "API Reverse Engineering",
+                "C++",
+                "Web Scraping",
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
+                "Automation"
+            ]
+        },
+        {
+            "name": "CGS (Computer Generated Solutions)",
+            "position": "Technical Support Specialist",
+            "interval": {
+                "start": "2022-02-13",
+                "end": "2022-05-20",
+            },
+            "lines": [
+                "Assist technical business customers in troubleshooting",
+                "Keep in touch with key customers to investigate possible issues with their product and service quality"
+            ],
+            "skills": [
+                "Soft Skills",
+                "Troubleshooting"
+            ]
+        },
+        {
+            "name": "Valoris",
+            "position": "Customer Support Agent",
+            "interval": {
+                "start": "2020-11-13",
+                "end": "2022-02-10",
+            },
+            "lines": [
+                "Remotely assist customers with technical and commercial issues.",
+                "Maintained a comprehensive understanding of company products, services, and policies to offer accurate information and support.",
+                "Identified and escalated complex issues to the appropriate departments, ensuring timely and efficient problem resolution."
+            ],
+            "skills": [
+                "Soft Skills",
+                "Troubleshooting"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "romanian",
+            "level": "native"
+        },
+        {
+            "name": "english",
+            "level": "fluent"
+        },
+    ]
+    ,
+    "skills": [
+        "Critical Thinking",
+        "AGILE",
+        "Teamwork",
+        "Software Design",
+        "Containers",
+        "Communication",
+        "Adaptive",
+        "Time Management"
+    ],
+    "technologies": {
+        "languages": [
+            "Python",
+            "Rust",
+            "C/C++",
+            "Go",
+            "Javascript/Typescript",
+            "Shell",
+            "MySQL/PostgreSQL"
+        ],
+        "others": [
+            "Debugging",
+            "Kernel Development",
+            "Linux",
+            "Web Crawling",
+            "Api Development",
+            "Api Reverse Engineering",
+            "Binary Reverse Engineering",
+            "Database ORM",
+            "CI/CD Pipelines",
+            "Unit Testing",
+            "Docker",
+            "Github Actions",
+            "Version Control (Git)",
+            "Test Driven Development",
+            "Remote Development",
+            "Networking"
+        ]
+    },
+    "projects":[
+        {
+            "name":"Zilog Z80 emulator",
+            "description": "A Zilog Z80 debugger/assembler/dissasembler library written in Rust",
+            "uri":"https://github.com/mirage2032/rs_emu_lib"
+        }
+    ]
+}
