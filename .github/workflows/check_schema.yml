@@ -1,6 +1,5 @@
 name: Validate JSON and Push to Master
-permissions:
-  contents: write
+
 on:
   push:
     branches:
